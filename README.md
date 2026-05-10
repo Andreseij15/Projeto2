@@ -18,7 +18,6 @@ Vide tutoriais do PI.
 ## Integrantes: <a href="https://www.linkedin.com/in/andré-seiji-shiroma">André Seiji Shiroma</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Almeida Daloia</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabio Augusto Camillo Rodrigues</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/victorbarq/">Aimar Martins Lopes</a>
-href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>, <a 
 ## Descrição
 
 <p align="center">
