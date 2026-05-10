@@ -24,8 +24,9 @@ Catálogo de jogos disponíveis na plataforma.
 Tabela de junção que registra quais alunos têm acesso a quais jogos.
 
 ## Script SQL
+### Script SQL - Modelo Físico
 
-
+```sql
 CREATE TABLE escola (
     Nome_escola VARCHAR(100),
     Email_Institucional VARCHAR(100),
@@ -54,7 +55,7 @@ CREATE TABLE pacotes (
 
 CREATE TABLE jogos (
     Tipo_Jogo VARCHAR(50),
-    Nome VARCHAR(100), -- Corrigido para VARCHAR
+    Nome VARCHAR(100),
     Descricao VARCHAR(255),
     Faixa_Etaria NUMERIC,
     Modo_Offline VARCHAR(20),
@@ -69,23 +70,22 @@ CREATE TABLE acesso_jogos_aluno (
 
 /* Resolvendo os relacionamentos (FKs) */
 
--- Liga o estudante à escola
 ALTER TABLE estudante ADD CONSTRAINT FK_estudante_escola
     FOREIGN KEY (ID_Escola)
     REFERENCES escola (ID_Escola);
 
--- Liga o pacote à escola
 ALTER TABLE pacotes ADD CONSTRAINT FK_pacotes_escola
     FOREIGN KEY (ID_Escola)
     REFERENCES escola (ID_Escola);
 
--- Liga a tabela de acesso aos Jogos, Estudantes e Escola
 ALTER TABLE acesso_jogos_aluno ADD CONSTRAINT FK_acesso_aluno
     FOREIGN KEY (RA) REFERENCES estudante (RA);
 
 ALTER TABLE acesso_jogos_aluno ADD CONSTRAINT FK_acesso_jogo
     FOREIGN KEY (ID_Jogos) REFERENCES jogos (ID_Jogo);
 
+ALTER TABLE acesso_jogos_aluno ADD CONSTRAINT FK_acesso_escola
+    FOREIGN KEY (ID_Escola) REFERENCES escola (ID_Escola);
 ALTER TABLE acesso_jogos_aluno ADD CONSTRAINT FK_acesso_escola
     FOREIGN KEY (ID_Escola) REFERENCES escola (ID_Escola);
 
