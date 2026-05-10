@@ -24,7 +24,7 @@ Catálogo de jogos disponíveis na plataforma.
 Tabela de junção que registra quais alunos têm acesso a quais jogos.
 
 ## Script SQL
-/* Modelo Físico Final Corrigido */
+
 
 CREATE TABLE escola (
     Nome_escola VARCHAR(100),
