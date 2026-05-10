@@ -17,7 +17,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/andré-seiji-shiroma">André Seiji Shiroma</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Almeida Daloia</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabio Augusto Camillo Rodrigues</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino</a>, <a href="https://www.linkedin.com/in/lucymari/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/eduardo-savino/">Eduardo Savino</a>, <a href="https://www.linkedin.com/in/lucymari/">Dra. Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>
 ## Descrição
 
 <p align="center">
