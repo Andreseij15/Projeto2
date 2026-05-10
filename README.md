@@ -15,7 +15,7 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="www.linkedin.com/in/andré-seiji-shiroma">André Seiji Shiroma</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Almeida Daloia</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabio Augusto Camillo Rodrigues</a>
+## Integrantes: <a href="https://www.linkedin.com/in/andré-seiji-shiroma">André Seiji Shiroma</a>, <a href="https://www.linkedin.com/in/victorbarq/">Marcos Almeida Daloia</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabio Augusto Camillo Rodrigues</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
