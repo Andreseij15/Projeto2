@@ -68,8 +68,6 @@ CREATE TABLE acesso_jogos_aluno (
     RA NUMERIC
 );
 
-/* Resolvendo os relacionamentos (FKs) */
-
 ALTER TABLE estudante ADD CONSTRAINT FK_estudante_escola
     FOREIGN KEY (ID_Escola)
     REFERENCES escola (ID_Escola);
