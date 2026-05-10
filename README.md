@@ -25,8 +25,9 @@ Vide tutoriais do PI.
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
+O projeto tem como objetivo principal o desenvolvimento de uma plataforma centralizada para a distribuição e gerenciamento de jogos educativos, utilizando uma interface inspirada em serviços de streaming como Netflix e Xbox Game Pass. A proposta busca modernizar a forma como estudantes e usuários interagem com softwares de aprendizagem, oferecendo um ambiente intuitivo e visualmente atraente que facilita a navegação, o acesso rápido aos títulos e a compreensão das mecânicas de cada jogo disponível na biblioteca.
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Esse repositório serve como um hub de entrega multiplataforma, com uma estrutura de pastas organizada e uma documentação técnica rigorosa, a plataforma garante que tanto desenvolvedores quanto usuários finais consigam baixar, instalar e rodar os jogos de forma eficiente, promovendo a democratização do acesso a ferramentas dentro do ambiente acadêmico da FECAP.
 <br><br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 <br><br>
